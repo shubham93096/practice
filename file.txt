@@ -2,4 +2,5 @@ Hello all
 how are you
 devops jenkins
 aws devops
-016 evening batch
+023 evening batch
+right we are learning build periodically part
