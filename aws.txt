@@ -1,1 +1,5 @@
 AWS Services
+ec2
+vpc
+rds
+s3
